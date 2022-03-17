@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, 🧑🏻‍💻
 
-<!--
-**gabrielmedina/gabrielmedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a brazilian software engineer focused in front-end application with ux designer skills. I love work in/build systems with good architecture and organization to make developers days happie :)
 
-Here are some ideas to get you started:
+> “The goal of software architecture is to minimize the human resources required to build and maintain the required system.” <br> ― Robert C. Martin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**I like study about**: HTML; Accessibility; CSS; Responsive design; Design systems; Javascript; Typescript; Vue & Nuxt; React & Next; Jest and Testing Library.
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=gabrielmedina&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielmedina&theme=vue-dark&hide_border=true)
