@@ -7,8 +7,3 @@ I'm a brazilian software engineer focused in front-end application with ux desig
 ---
 
 **I like study about**: HTML; Accessibility; CSS; Responsive design; Design systems; Javascript; Typescript; Vue & Nuxt; React & Next; Jest and Testing Library.
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=gabrielmedina&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielmedina&theme=vue-dark&hide_border=true)
