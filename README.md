@@ -1,6 +1,6 @@
 Hi, 🧑🏻‍💻
 
-I'm a brazilian software engineer focused in front-end application with ux designer skills. I love work in/build systems with good architecture and organization to make developers days happie :)
+I'm a brazilian software engineer focused in front-end applications with ux designer skills. I love work in/build systems with good architecture and organization to make developers days happie :)
 
 > “The goal of software architecture is to minimize the human resources required to build and maintain the required system.” 
 > 
