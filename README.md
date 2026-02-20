@@ -1,9 +1,15 @@
-Hi, 🧑🏻‍💻
+Olá, 🧑🏻‍💻
 
-I'm a brazilian software engineer, with focus in front-end. I have a little background in user experience design and I love building awesome user interface micro interactions. Like an engineer, I love building systems with good architecture to make developers days happiest :]
+Eu sou um desenvolvedor brasileiro, atuando na construção de aplicações escaláveis com foco em arquitetura sustentável e experiência do usuário.
+
+Tenho experiência em React/Next, microfrontends, design systems e integração com APIs em ambientes de alta complexidade. Atuo próximo a produto e times multidisciplinares, equilibrando performance, manutenibilidade e evolução contínua.
+
+Tenho forte preocupação com: Arquitetura limpa; Escalabilidade; Developer Experience; Qualidade de código e padrões consistentes.
+
+Acredito que boas decisões arquiteturais reduzem complexidade e aceleram negócios.
 
 > “The goal of software architecture is to minimize the human resources required to build and maintain the required system.” 
 > 
 > ― Robert C. Martin
 
-**My current focus**: HTML; Accessibility; CSS; Responsive design; Design systems; Javascript; Typescript; Vue; Nuxt; React; Next; Rest API; GraphQL; Jest and Testing Library.
+**Current focus**: HTML; Accessibility; CSS; Responsive design; Design systems; Javascript; Typescript; Vue; Nuxt; React; Next; Rest API; GraphQL; Jest and Testing Library.
