@@ -1,15 +1,22 @@
-Olá, 🧑🏻‍💻
+Sou Senior Front-end Engineer, com mais de 16 anos de experiência em desenvolvimento web e mais de 8 anos trabalhando com React, especializado na construção e evolução de aplicações escaláveis, arquitetura Front-end e desenvolvimento de produtos digitais.
 
-Eu sou um desenvolvedor brasileiro, atuando na construção de aplicações escaláveis com foco em arquitetura sustentável e experiência do usuário.
+Minha trajetória começou no desenvolvimento web e passou pela experiência do usuário (UX), o que me proporcionou uma visão que conecta tecnologia, usabilidade e necessidades de negócio. Ao longo dos anos, evoluí para a engenharia Front-end, assumindo desafios de maior complexidade, decisões arquiteturais e responsabilidades sobre a evolução técnica de aplicações.
 
-Tenho experiência em React/Next, microfrontends, design systems e integração com APIs em ambientes de alta complexidade. Atuo próximo a produto e times multidisciplinares, equilibrando performance, manutenibilidade e evolução contínua.
+Tenho experiência em ecossistemas de e-commerce, marketplaces e plataformas digitais, atuando com React, JavaScript, TypeScript, Next.js e arquiteturas baseadas em microfrontends.
 
-Tenho forte preocupação com: Arquitetura limpa; Escalabilidade; Developer Experience; Qualidade de código e padrões consistentes.
+No Grupo Boticário, contribuí para a evolução de uma plataforma de e-commerce white-label, participando de iniciativas de modernização de aplicações legadas, integração de microfrontends e desenvolvimento de soluções compartilhadas entre diferentes marcas e jornadas. Também atuei como referência técnica, colaborando com decisões arquiteturais, revisões de código e desenvolvimento de outros profissionais.
 
-Acredito que boas decisões arquiteturais reduzem complexidade e aceleram negócios.
+No Grupo SBF, atuo como Senior Front-end Engineer com foco na evolução do Backoffice, colaborando de forma transversal entre diferentes squads. Minha participação abrange desde a concepção técnica das funcionalidades até sua implementação e entrega, conectando necessidades de produto, engenharia e experiência do usuário.
 
-> “The goal of software architecture is to minimize the human resources required to build and maintain the required system.” 
-> 
-> ― Robert C. Martin
+Acredito que a senioridade em engenharia de software vai além do domínio de tecnologias. Envolve compreender problemas, avaliar alternativas, tomar decisões sustentáveis e assumir responsabilidade pelas soluções construídas.
 
-**Current focus**: HTML; Accessibility; CSS; Responsive design; Design systems; Javascript; Typescript; Vue; Nuxt; React; Next; Rest API; GraphQL; Jest and Testing Library.
+Principais especialidades:
+
+- React, TypeScript, JavaScript e Next.js
+- Front-end Architecture e Microfrontends
+- Component Architecture e Design Systems
+- Software Engineering, Clean Code e SOLID
+- Web Performance, Observability e Web Analytics
+- Code Review, Mentoring e colaboração cross-team
+
+Meu foco é construir experiências digitais consistentes e aplicações sustentáveis, contribuindo tanto para a qualidade técnica dos produtos quanto para a evolução das equipes com as quais trabalho.
